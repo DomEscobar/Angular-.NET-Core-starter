@@ -1,0 +1,174 @@
+html {
+  background: rgb(3, 20, 32);
+}
+
+.inner-btn {
+  background: rgb(3, 20, 32);
+}
+
+.btn {
+  color: white;
+  background: gray;
+}
+
+.corner
+{
+  box-shadow: 1px 1px 1px 5px #21303a !important;
+}
+
+body {
+  color: #f6f6f6;
+  text-align: left;
+  background-color: #031420;
+}
+
+.navbar-n {
+  border-bottom: 1px solid #131313 !important;
+  background: #00182a !important;
+}
+.form-control {
+  color: #e9e1e1;
+  background-color: #010d16;
+  border-bottom: 0px !important;
+}
+
+label {
+  color: #afaeae;
+}
+
+.btn-primary {
+  border-color: #0e5181;
+  color: white;
+  background: linear-gradient(to top, #418cab 0%, #328df3 100%);
+}
+
+a {
+  color: #3bbfff;
+}
+
+thead {
+  background: transparent;
+  color: #ffffff;
+  margin-top: 10px;
+}
+
+.circle-button
+{
+  box-shadow: 0 0 0px 9px rgba(255, 255, 255, 0.1) !important;
+}
+
+tr {
+  border-bottom: 0px !important;
+}
+
+.option-item {
+  color: black;
+}
+
+input {
+  background-color: #010d16;
+  border: 0px !important;
+  color: white !important;
+}
+
+.container-cfg {
+  background: #011626 !important;
+}
+
+.bg-content
+{
+  background: #011626 !important;
+}
+
+.selectBox {
+  border: 0px !important;
+  background: #010d16;
+}
+
+.form-control:focus {
+  color: #495057 !important;
+}
+
+.preLoader-bg {
+  background: black;
+}
+
+.btn-success {
+  background-image: linear-gradient(to top, #3da532 0%, #3dff34 100%);
+}
+
+.table th,
+.table td {
+  border-bottom: 1px solid rgba(233, 233, 233, 0.16);
+  overflow: hidden;
+  border: 1px solid #1c1a1f;
+}
+
+.clock-in,
+.clock-out {
+  box-shadow: 1px 1px 1px 10px rgba(255, 255, 255, 0.12) !important;
+}
+
+.btn {
+  box-shadow: 0px 0px 1px 2px rgb(34, 49, 59) !important;
+  padding: 5px 20px;
+  font-size: 12px;
+}
+
+.max-auto {
+}
+
+.tab-panel {
+  border-color: #011626 !important;
+}
+
+.ddleft {
+  -webkit-transform: perspective(980px) rotateY(15deg);
+  transform: perspective(980px) rotateY(15deg);
+  -webkit-box-shadow: -4px 1px 0px 5px rgb(34, 49, 59);
+  box-shadow: -4px 1px 0px 5px rgb(34, 49, 59);
+  margin-left: 30px !IMPORTANT;
+}
+
+.ddRight {
+  -webkit-transform: perspective(980px) rotateY(-15deg);
+  transform: perspective(980px) rotateY(-15deg);
+  -webkit-box-shadow: 4px 1px 0px 5px rgb(34, 49, 59);
+  box-shadow: 4px 1px 0px 5px rgb(34, 49, 59);
+  margin-right: 30px !IMPORTANT;
+}
+
+.tr-footer{
+  background: rgb(19, 23, 38) !important;
+}
+
+.new-booking
+{
+  border-radius: 50px !important;
+}
+
+
+.router-link-active
+{
+  box-shadow: 0px 0px 0px gray !important;
+}
+
+.active
+{
+  box-shadow: 0px 0px 0px gray !important;
+}
+
+.bg-image-inner-button
+{
+  opacity: 0.3 !important;
+}
+
+.bg-img-panel
+{
+ opacity: 0.1 !important;
+}
+
+.sumrows
+{
+  background:rgba(255, 255, 255, 0.2) !important;
+}

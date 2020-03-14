@@ -1,0 +1,13 @@
+{
+  "name": "Accenon GO",
+  "short_name": "AccenonGo",
+  "description": "Accenon GO - Timeattendance",
+  "icons": [
+    {
+      "src": "https://nokol.net/block/favicon.ico",
+      "sizes": "400x400",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "https://nokol.net"
+}

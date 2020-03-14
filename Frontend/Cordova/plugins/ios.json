@@ -1,0 +1,47 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-device": {
+      "PACKAGE_NAME": "io.cordova.hexaccenon"
+    },
+    "cordova-plugin-file": {
+      "PACKAGE_NAME": "io.cordova.hexaccenon"
+    },
+    "cordova-plugin-file-opener2": {
+      "PACKAGE_NAME": "io.cordova.hexaccenon"
+    },
+    "cordova-plugin-network-information": {
+      "PACKAGE_NAME": "io.cordova.hexaccenon"
+    },
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "io.cordova.hexaccenon"
+    },
+    "phonegap-nfc": {
+      "NFC_USAGE_DESCRIPTION": "Read NFC Tags",
+      "PACKAGE_NAME": "io.cordova.hexaccenon"
+    },
+    "cordova-plugin-geolocation": {
+      "PACKAGE_NAME": "io.cordova.hexaccenon"
+    },
+    "cordova-plugin-filechooser": {
+      "PACKAGE_NAME": "io.cordova.hexaccenon"
+    },
+    "cordova-plugin-splashscreen": {
+      "PACKAGE_NAME": "io.cordova.hexaccenon"
+    },
+    "cordova-plugin-local-notification": {
+      "PACKAGE_NAME": "io.cordova.hexaccenon"
+    }
+  },
+  "dependent_plugins": {
+    "cordova-plugin-badge": {
+      "PACKAGE_NAME": "io.cordova.hexaccenon"
+    }
+  }
+}
